@@ -1,0 +1,3 @@
+model_checkpoint_path: "ListeningAgent-2553242.ckpt"
+all_model_checkpoint_paths: "ListeningAgent-2499999.ckpt"
+all_model_checkpoint_paths: "ListeningAgent-2553242.ckpt"

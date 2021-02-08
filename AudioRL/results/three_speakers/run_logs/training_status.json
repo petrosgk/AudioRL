@@ -1,0 +1,47 @@
+{
+    "ListeningAgent": {
+        "checkpoints": [
+            {
+                "steps": 3013791,
+                "file_path": "results/three_speakers/ListeningAgent/ListeningAgent-3013791.nn",
+                "reward": 0.060550127047550605,
+                "creation_time": 1600150028.9111109
+            },
+            {
+                "steps": 3499904,
+                "file_path": "results/three_speakers/ListeningAgent/ListeningAgent-3499904.nn",
+                "reward": 0.270654313954467,
+                "creation_time": 1600157991.2802503
+            },
+            {
+                "steps": 3999942,
+                "file_path": "results/three_speakers/ListeningAgent/ListeningAgent-3999942.nn",
+                "reward": 0.36667167426700614,
+                "creation_time": 1600165829.628866
+            },
+            {
+                "steps": 4499993,
+                "file_path": "results/three_speakers/ListeningAgent/ListeningAgent-4499993.nn",
+                "reward": 0.36089825957365657,
+                "creation_time": 1600174298.3419573
+            },
+            {
+                "steps": 4516831,
+                "file_path": "results/three_speakers/ListeningAgent/ListeningAgent-4516831.nn",
+                "reward": 0.35354298758246594,
+                "creation_time": 1600174570.6179142
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4516831,
+            "file_path": "results/three_speakers/ListeningAgent.nn",
+            "reward": 0.35354298758246594,
+            "creation_time": 1600174570.6179142
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.19.0",
+        "tensorflow_version": "2.3.0"
+    }
+}
