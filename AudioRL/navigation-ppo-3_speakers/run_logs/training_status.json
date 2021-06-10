@@ -1,0 +1,47 @@
+{
+    "ListeningAgent": {
+        "checkpoints": [
+            {
+                "steps": 6499940,
+                "file_path": "results/navigation-ppo-3_speakers/ListeningAgent/ListeningAgent-6499940.onnx",
+                "reward": 0.47010072006596076,
+                "creation_time": 1623255550.6830907
+            },
+            {
+                "steps": 6999977,
+                "file_path": "results/navigation-ppo-3_speakers/ListeningAgent/ListeningAgent-6999977.onnx",
+                "reward": 0.5768810710892804,
+                "creation_time": 1623260866.4789355
+            },
+            {
+                "steps": 7499974,
+                "file_path": "results/navigation-ppo-3_speakers/ListeningAgent/ListeningAgent-7499974.onnx",
+                "reward": 0.5493728828295475,
+                "creation_time": 1623266220.224417
+            },
+            {
+                "steps": 7999988,
+                "file_path": "results/navigation-ppo-3_speakers/ListeningAgent/ListeningAgent-7999988.onnx",
+                "reward": 0.556045180882316,
+                "creation_time": 1623273123.6074102
+            },
+            {
+                "steps": 8024315,
+                "file_path": "results/navigation-ppo-3_speakers/ListeningAgent/ListeningAgent-8024315.onnx",
+                "reward": 0.5921044257362332,
+                "creation_time": 1623273392.4198737
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8024315,
+            "file_path": "results/navigation-ppo-3_speakers/ListeningAgent.onnx",
+            "reward": 0.5921044257362332,
+            "creation_time": 1623273392.4198737
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.24.0",
+        "torch_version": "1.7.1"
+    }
+}
