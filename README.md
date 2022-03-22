@@ -2,8 +2,10 @@
 
 This is the repository for our paper _A Deep Reinforcement Learning Approach to Audio-based Navigation in a Multi-speaker Environment_ accepted in ICASSP 2021.
 
-`AudioRL.tar.xz` contains the Unity project, which includes the Unity environment, the Agent code and trained model, and the dataset.
-`AudioRL` contains the agent configuration file (`ListeningAgent.yaml`)
+You can download the Unity project package [here](https://drive.google.com/file/d/1-nZDmFVzcZjacaP1kIO5Tj8gooP_gRvq/view?usp=sharing).
+
+The downloaded `AudioRL.tar.xz` contains the Unity project, which includes the Unity environment, the Agent code and trained model, and the dataset.
+`AudioRL` contains the agent configuration file (`ListeningAgent.yaml`).
 
 ### Installation
 
